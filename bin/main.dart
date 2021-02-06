@@ -29,7 +29,7 @@ void main(List<String> arguments) {
   print("\n  ***Entrer la confiance pour generer les regles d \' association ");
   confMin = int.parse(stdin.readLineSync());
 
-  var tabTransaction = Utilitaire.extractData('./user1.xlsx');
+  var tabTransaction = Utilitaire.extractData('../user1.xlsx');
   var tabItem = Utilitaire.extractItem(tabTransaction);
   switch (choice) {
     case 1:
