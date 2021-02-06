@@ -12,7 +12,10 @@ dev_dependencies:
   
 dans le terminal et tape
 ### run this command to add   all dependencie   
-  pub get \n
-  cd bin/ \n
+  pub get 
+  
+  cd bin/
+  
   dart run main.dart
+  
 ![execution](https://user-images.githubusercontent.com/63323044/107106056-fea36100-6829-11eb-8bf2-2de480b947c9.png)
