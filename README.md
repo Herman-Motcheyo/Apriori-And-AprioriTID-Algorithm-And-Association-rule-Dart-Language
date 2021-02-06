@@ -1,4 +1,5 @@
 # Apriori , AprioriTID Algorithm and Association  Rule in Dart programming language
+In this project we are going to implement apriori and aprioriTid to find frequent itemset in transaction and we generated all association rule 
 ## To compile this project, clone the repository, then open  pubspec.yaml and add if it does not exist
 ## Dependencies
 environment:
